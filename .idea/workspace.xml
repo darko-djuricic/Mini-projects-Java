@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6ff84ac-0070-4399-9839-90f9bb156cd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WoV55VNdz3gTEBngQEc8iuWNcd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled16" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="treciZadatak" />
+      <recent name="drugiZadatak" />
+      <recent name="prviZadatak" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lavirint">
+    <configuration name="BioritamKalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prviZadatak.BioritamKalkulator" />
+      <module name="Projekat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prviZadatak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lavirint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treciZadatak.Lavirint" />
+      <module name="Projekat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treciZadatak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prviZadatak.Server1" />
+      <module name="Projekat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prviZadatak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treciZadatak.Server3" />
+      <module name="Projekat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treciZadatak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerRez" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treci.ServerRez" />
+      <module name="Projekat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treciZadatak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lavirint" />
+        <item itemvalue="Application.Server3" />
+        <item itemvalue="Application.BioritamKalkulator" />
+        <item itemvalue="Application.Server1" />
+        <item itemvalue="Application.ServerRez" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6ff84ac-0070-4399-9839-90f9bb156cd3" name="Default Changelist" comment="" />
+      <created>1579815747398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579815747398</updated>
+      <workItem from="1579815750964" duration="3169000" />
+      <workItem from="1579860911170" duration="11526000" />
+      <workItem from="1579954959179" duration="10534000" />
+      <workItem from="1579966894981" duration="513000" />
+      <workItem from="1579995373482" duration="119000" />
+      <workItem from="1580032317510" duration="13668000" />
+      <workItem from="1580115866490" duration="22548000" />
+      <workItem from="1580198167493" duration="5049000" />
+      <workItem from="1580203289152" duration="93000" />
+      <workItem from="1593881366733" duration="59000" />
+      <workItem from="1593966916892" duration="213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1593967143483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593967143483" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1593967143483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593967143483" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1593967143483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593967143483" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1593967143483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593967143483" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1593966917248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593966917248" />
+  </component>
+</project>
